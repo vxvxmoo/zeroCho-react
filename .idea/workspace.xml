@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4690df1a-019f-4964-9155-b0ba6237de31" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.구구단/liken-button-jsx.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.구구단/liken-button-jsx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.구구단/like-button.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.구구단/like-button.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +19,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2dGIpuLfme5R6NhXn80Tp6J6ZGa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,7 +57,7 @@
       <workItem from="1709628213759" duration="5984000" />
       <workItem from="1709771397613" duration="119000" />
       <workItem from="1709771523495" duration="769000" />
-      <workItem from="1709772436476" duration="1273000" />
+      <workItem from="1709772436476" duration="4937000" />
     </task>
     <servers />
   </component>
